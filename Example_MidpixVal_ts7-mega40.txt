@@ -1,0 +1,6 @@
+0 D:\Training_Data_Creation\Val_Tiles_ts7-mega40\Tiles_123\Val_size7,0.png D:\Training_Data_Creation\Val_Tiles_ts7-mega40\Tiles_456\Val_size7,0.png D:\Training_Data_Creation\Val_Tiles_ts7-mega40\Tiles_789\Val_size7,0.png
+0 D:\Training_Data_Creation\Val_Tiles_ts7-mega40\Tiles_123\Val_size7,1.png D:\Training_Data_Creation\Val_Tiles_ts7-mega40\Tiles_456\Val_size7,1.png D:\Training_Data_Creation\Val_Tiles_ts7-mega40\Tiles_789\Val_size7,1.png
+24 D:\Training_Data_Creation\Val_Tiles_ts7-mega40\Tiles_123\Val_size7,10.png D:\Training_Data_Creation\Val_Tiles_ts7-mega40\Tiles_456\Val_size7,10.png D:\Training_Data_Creation\Val_Tiles_ts7-mega40\Tiles_789\Val_size7,10.png
+0 D:\Training_Data_Creation\Val_Tiles_ts7-mega40\Tiles_123\Val_size7,100.png D:\Training_Data_Creation\Val_Tiles_ts7-mega40\Tiles_456\Val_size7,100.png D:\Training_Data_Creation\Val_Tiles_ts7-mega40\Tiles_789\Val_size7,100.png
+5 D:\Training_Data_Creation\Val_Tiles_ts7-mega40\Tiles_123\Val_size7,1000.png D:\Training_Data_Creation\Val_Tiles_ts7-mega40\Tiles_456\Val_size7,1000.png D:\Training_Data_Creation\Val_Tiles_ts7-mega40\Tiles_789\Val_size7,1000.png
+
